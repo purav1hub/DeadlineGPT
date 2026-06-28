@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineGPT",
+  "description": "An AI-powered deadline assistant, task planner, panic triage coordinator, procrastination negotiator, commitment contractor, and custom scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
